@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace _30_Days_of_Code
 {
-    class Program
+    class Day23_BSTLevelOrderTraversal
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
